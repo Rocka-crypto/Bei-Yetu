@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BeiYetu" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorPrimaryContainer">@color/green_100</item>
+        <item name="colorOnPrimaryContainer">@color/brand_text</item>
+        <item name="colorSecondary">@color/gold</item>
+        <item name="colorOnSecondary">@color/gold_text</item>
+        <item name="colorSecondaryContainer">@color/notice_bg</item>
+        <item name="colorOnSecondaryContainer">@color/notice_text</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/ink</item>
+        <item name="colorOnSurfaceVariant">@color/muted</item>
+        <item name="colorOutline">@color/muted</item>
+        <item name="colorOutlineVariant">@color/line</item>
+        <item name="colorSurfaceContainer">@color/surface</item>
+        <item name="colorSurfaceContainerHigh">@color/surface</item>
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/green_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

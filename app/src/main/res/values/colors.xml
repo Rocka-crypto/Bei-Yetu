@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- brand colours: the same in light and dark mode -->
+    <color name="green_900">#FF0F4D2A</color>
+    <color name="green_800">#FF14612F</color>
+    <color name="green_700">#FF1B7F3B</color>
+    <color name="green_500">#FF2FA555</color>
+    <color name="green_200">#FFBFE3C9</color>
+    <color name="gold">#FFF2A900</color>
+    <color name="gold_100">#FFFFF4D6</color>
+    <color name="gold_text">#FF3A2A00</color>   <!-- dark text to use ON gold -->
+
+    <!-- semantic colours: these change in dark mode (see values-night/colors.xml) -->
+    <color name="bg">#FFF5F8F4</color>           <!-- screen background -->
+    <color name="surface">#FFFFFFFF</color>      <!-- cards, bars, dialogs -->
+    <color name="ink">#FF1F2A24</color>          <!-- main text -->
+    <color name="muted">#FF66736C</color>        <!-- secondary text -->
+    <color name="line">#FFE3E9E4</color>         <!-- borders and dividers -->
+    <color name="green_100">#FFE6F4EA</color>    <!-- soft green panels -->
+    <color name="brand_text">#FF0F4D2A</color>   <!-- green text and numbers -->
+    <color name="primary">#FF1B7F3B</color>      <!-- buttons -->
+    <color name="on_primary">#FFFFFFFF</color>   <!-- text on buttons -->
+    <color name="bar_color">#FF1B7F3B</color>    <!-- price bars -->
+    <color name="red">#FFC0392B</color>
+    <color name="red_100">#FFFDECEA</color>
+    <color name="notice_bg">#FFFFF4D6</color>    <!-- warm notice panels -->
+    <color name="notice_text">#FF3A2A00</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921236114982",
+    "project_id": "bei-yetu",
+    "storage_bucket": "bei-yetu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921236114982:android:d0227a49c8be19f13620e7",
+        "android_client_info": {
+          "package_name": "com.beiyetu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rk3cd6M8QDXidca74v-q6S3AjDIMir0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

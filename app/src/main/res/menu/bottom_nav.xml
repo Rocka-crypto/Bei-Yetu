@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_prices" android:icon="@drawable/ic_prices" android:title="Prices" />
+    <item android:id="@+id/nav_sell" android:icon="@drawable/ic_sell" android:title="Sell" />
+    <item android:id="@+id/nav_report" android:icon="@drawable/ic_report" android:title="Report" />
+    <item android:id="@+id/nav_activity" android:icon="@drawable/ic_activity" android:title="Activity" />
+    <item android:id="@+id/nav_more" android:icon="@drawable/ic_more" android:title="More" />
+</menu>

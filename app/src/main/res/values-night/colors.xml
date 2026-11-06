@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF111613</color>
+    <color name="surface">#FF1C2420</color>
+    <color name="ink">#FFE6EDE8</color>
+    <color name="muted">#FF9FB0A6</color>
+    <color name="line">#FF2C3832</color>
+    <color name="green_100">#FF1E3A29</color>
+    <color name="brand_text">#FF8FD6A4</color>
+    <color name="primary">#FF3DBA68</color>
+    <color name="on_primary">#FF08240F</color>
+    <color name="bar_color">#FF3DBA68</color>
+    <color name="red">#FFFF8A80</color>
+    <color name="red_100">#FF422320</color>
+    <color name="notice_bg">#FF3B3214</color>
+    <color name="notice_text">#FFF4DC8E</color>
+</resources>
